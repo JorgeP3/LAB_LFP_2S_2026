@@ -76,6 +76,5 @@ def main():
     except FileNotFoundError:
         print("Error al abrir el archivo.")
 
-
 if __name__ == "__main__":
     main()
