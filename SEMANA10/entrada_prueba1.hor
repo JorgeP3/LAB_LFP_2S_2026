@@ -1,0 +1,5 @@
+HORARIO {
+    CURSOS {
+        curso: "Lenguajes Formales y de Programacion" [codigo: "LFP-0796", creditos: 4],
+        curso: "Bases de Datos 2" [codigo: "BD2-0812", creditos: 5],
+    };
